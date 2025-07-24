@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working MERN and Flutter <br>👯 I’m looking to collaborate on any project <br>🌱 I’m currently learning cyber security<br>💬 Ask me about any problem<br>⚡ Fun fact
-
+🔭  I'm currently honing my skills in cybersecurity, with a particular focus on CTFs (Capture The Flag) challenges and exploring various security tools and methodologies. <br>👯 I’m actively looking to collaborate on cybersecurity projects. Whether it's developing security tools, contributing to open-source security initiatives, or tackling CTF challenges, I'm eager to get involved. I'm also open to MERN/Flutter initiatives! <br>🌱  I'm continuously learning and expanding my knowledge in network security, web application security, cryptography, and digital forensics.<br>💬 Feel free to ask me about MERN stack, Flutter development, or anything related to cybersecurity problems – I'm always happy to help or discuss! <br>⚡ Fun fact: I enjoy dissecting malware samples and analyzing security vulnerabilities in my free time!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/atara-rushi/) 
