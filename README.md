@@ -1,24 +1,83 @@
-# 💫 About Me:
-Atara Rushi
-🔭  I'm currently honing my skills in cybersecurity, with a particular focus on CTFs (Capture The Flag) challenges and exploring various security tools and methodologies. <br>👯 I’m actively looking to collaborate on cybersecurity projects. Whether it's developing security tools, contributing to open-source security initiatives, or tackling CTF challenges, I'm eager to get involved. I'm also open to MERN/Flutter initiatives! <br>🌱  I'm continuously learning and expanding my knowledge in network security, web application security, cryptography, and digital forensics.<br>💬 Feel free to ask me about MERN stack, Flutter development, or anything related to cybersecurity problems – I'm always happy to help or discuss! <br>⚡ Fun fact: I enjoy dissecting malware samples and analyzing security vulnerabilities in my free time!
+# 👋 Hi, I'm Atara Rushi
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/atara-rushi/) 
+### 🔐 Cybersecurity | Application Security | VAPT | Security Research
 
-# 💻 Tech Stack:
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=atararushi001&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=atararushi001&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=atararushi001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I'm an M.Tech Cyber Security student at Amrita Vishwa Vidyapeetham with a background in computer engineering and software development. I'm interested in finding vulnerabilities, understanding attack techniques, and building practical security solutions.
+
+- 🔭 Improving my skills in web application security, penetration testing, and vulnerability research.
+- 🐛 Reported vulnerabilities in open-source projects through GitHub Security Advisories.
+- 🏆 Practising on Hack The Box, OffSec Proving Grounds, and TryHackMe.
+- 🛠️ Building security tools and machine-learning-based cybersecurity projects.
+- 🤝 Open to cybersecurity projects, open-source contributions, and security opportunities.
+- 🎯 Interested in Application Security, VAPT, SOC, and Security Engineering.
+
+## 🏆 Certifications & Achievements
+
+- Certified Ethical Hacker (CEH v13) — EC-Council
+- Certified Penetration Testing Professional (CPENT) — EC-Council
+- OffSec Proving Grounds — Arctic Howl, Global Rank #43
+- Hack The Box University CTF 2025 — Rank 170
+- HTB Holmes CTF 2026 — Team Rank 105 out of 5,637 teams
+
+## 🐛 Vulnerability Research
+
+- **[Tamari — SSRF via DNS Rebinding](https://github.com/alexbates/Tamari/security/advisories/GHSA-fj24-576j-7fh7)**
+- **[Storyblok Backup — Path Traversal](https://github.com/webflorist/storyblok-backup/security/advisories/GHSA-vcx7-pfrh-mcfg)**
+
+## 🚀 Cybersecurity Projects
+
+- 🔍 **Web Vulnerability Scanner:** Python-based tool for testing web applications for common vulnerabilities.
+- 🛡️ **ML-Based CSRF Detection:** Machine-learning approach to classifying potentially malicious and normal web requests.
+- 📊 **Security Monitoring Lab:** Security monitoring and log analysis using Splunk.
+- 🔬 **Security Labs:** Hands-on penetration-testing practice and CTF challenges.
+
+## 🛠️ Tech Stack
+
+### Security Tools
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge)
+![Nuclei](https://img.shields.io/badge/Nuclei-6E56CF?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
+![SQLMap](https://img.shields.io/badge/SQLMap-333333?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+
+### Programming & Scripting
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Development Background
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atara-rushi/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/atararushi001)
+[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019e15ab-9285-71a0-9a8b-c29a89595f15)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-C11111?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/atararushi111111)
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=atararushi001&theme=dark&hide_border=true&show_icons=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=atararushi001&theme=dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=atararushi001&theme=dark&hide_border=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=atararushi001&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=atararushi001&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-profile-trophy.vercel.app/?username=atararushi001&theme=darkhub&no-frame=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=atararushi001&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+💻 *Learning by breaking things in labs, understanding why they break, and finding ways to secure them.*
